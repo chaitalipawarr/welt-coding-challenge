@@ -1,0 +1,16 @@
+.article-teaser {
+  padding: 10px;
+  width: 240px;
+  flex: 1 0 auto;
+  box-sizing: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+.article-teaser .article-teaser__image {
+  width: 240px;
+  height: auto;
+  object-fit: contain;
+  aspect-ratio: 3/2;
+}
+.article-teaser .loader-wrapper {
+  height: 160px;
+}
