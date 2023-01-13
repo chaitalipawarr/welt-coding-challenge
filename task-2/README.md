@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Article Teasers App
 
 This project displays article teaser list using given endpoints.
 This app has few unit test cases to test scenarios.
